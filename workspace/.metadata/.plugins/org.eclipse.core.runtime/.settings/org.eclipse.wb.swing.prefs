@@ -1,7 +1,0 @@
-codeGeneration.forcedMethod=initGUI
-codeGeneration.statementId=org.eclipse.wb.core.model.statement.block
-codeGeneration.variableId=org.eclipse.wb.core.model.variable.fieldUnique
-eclipse.preferences.version=1
-property.events.stubCreate=true
-stubName=${component_name}${Event_name}
-textVariable.template=${class_name}${text}
